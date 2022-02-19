@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello World 🌏
 
-<!-- b a n n e r-->
+![Banner](/image/github_banner.png)
 
 I am a full-time Android Developer and part-time Content Creator in MikkiPastel. I have started Android Development since the internship and develop some applications to join some contest to get more experience then my goals are made application to solve user problem, answer business and improve myself to share knowledge in my blog. 
 
