@@ -16,7 +16,9 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 [![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtGbMSe4i7NJiKQ271Fezcg)
 [![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseobingsu/)](https://medium.com/@minseomikki)
 
-<!-- ## 💻 Latest Blog -->
+## 💻 Latest Blog
+<!-- feed start -->
+<!-- feed end -->
 
 ## 💻 My Tech Stack
 
