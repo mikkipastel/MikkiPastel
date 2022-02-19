@@ -2,8 +2,7 @@ name: Latest MikkiPastel blog post workflow
 on:
   schedule:
     # Runs every day
-    #- cron: '0 0 * * *'
-    - cron: '26 19 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
