@@ -1,0 +1,19 @@
+name: Latest MikkiPastel blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://www.mikkipastel.com/rss/"
+          commit_message: "Update mikkipastel.com blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
