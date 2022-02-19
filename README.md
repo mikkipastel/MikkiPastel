@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--# MikkiPastel
-Application for read MikkiPastel's blog in android
-url in play store : https://play.google.com/store/apps/details?id=com.mikkipastel.blog
--->
-
 My blog : https://www.mikkipastel.com
 
 My portfolio : https://mikkipastel.web.app
 
 My Android Application : https://play.google.com/store/apps/dev?id=6950665064391537398
 
-### Donate me
+## About me
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/narze)
+
+## Donate me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31VK3J)
