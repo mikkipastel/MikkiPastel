@@ -8,9 +8,9 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📫 Social
 
-[![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=blog&url=https%3A%2F%2Fmikkipastel.com)](https://mikkipastel.com)
-[![Portfolio](https://img.shields.io/website?color=FF9999&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fmikkipastel.web.app)](https://mikkipastel.web.app)
-[![Play Store](https://img.shields.io/website?color=48ff48&style=flat-square&up_message=PlayStore&url=https%3A%2F%2Fplay.google.com/store/apps/dev?id=6950665064391537398)](https://play.google.com/store/apps/dev?id=6950665064391537398)
+[![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Blog&url=https%3A%2F%2Fmikkipastel.com)](https://mikkipastel.com)
+[![Portfolio](https://img.shields.io/website?color=FF9999&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fmikkipastel.web.app)](https://mikkipastel.web.app)
+[![Play Store](https://img.shields.io/website?color=48ff48&style=flat-square&up_message=Play%20Store&url=https%3A%2F%2Fplay.google.com/store/apps/dev?id=6950665064391537398)](https://play.google.com/store/apps/dev?id=6950665064391537398)
 
 [![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/mikkipastel)
 [![Twitter Badge](https://img.shields.io/badge/-@mikkipastel-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mikkipastel "Follow on Twitter")
