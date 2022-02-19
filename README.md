@@ -14,8 +14,8 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 [![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/mikkipastel)
 [![Twitter Badge](https://img.shields.io/badge/-@mikkipastel-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mikkipastel "Follow on Twitter")
-[![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/UCtGbMSe4i7NJiKQ271Fezcg)
-[![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseomikki/)](https://medium.com/@minseomikki)
+[![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtGbMSe4i7NJiKQ271Fezcg)
+[![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseobingsu/)](https://medium.com/@minseomikki)
 
 <!-- ## 💻 Latest Blog -->
 
