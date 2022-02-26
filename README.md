@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [แนะแนววิธีการทำ Github Profile ให้สวยงาม](https://www.mikkipastel.com/guide-for-do-github-profile-to-beautiful/)
 - [วิธีการรับเหรียญไว้เทสใน Ropsten Ethereum](https://www.mikkipastel.com/get-eth-and-token-for-test-with-ropsten-ethereum-testnet-by-faucet/)
 - [ทดลองทำ React website แบบง่ายๆบน Vercel กันเถอะ](https://www.mikkipastel.com/simple-react-website-on-vercel/)
 - [ทดลองทำ gitbook เป็นของตัวเอง](https://www.mikkipastel.com/how-to-create-my-gitbook/)
 - [ทบทวน Python กับไลฟ์การทำ Wordle ของน้อง Mari Taiga](https://www.mikkipastel.com/live-python-wordle-mari-taiga/)
-- [ทำ Jenkins pipeline ใน Android project ของเรากันเถอะ](https://www.mikkipastel.com/jenkins-pipeline-for-android-project/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
