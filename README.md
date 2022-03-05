@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [ทำไมเราจึงห้ามให้ seed และ private key ของ wallet ของเราให้คนอื่น?](https://www.mikkipastel.com/why-dont-give-seed-and-private-key-to-other/)
 - [จดประเด็นที่น่าสนใจใน &quot;Web3.0 เว็บไร้ตัวกลางกำลังจะมา คนทำเว็บว่ายังไง&quot;](https://www.mikkipastel.com/note-for-web-3-decentralized-web-webpresso/)
 - [แนะแนววิธีการทำ Github Profile ให้สวยงาม](https://www.mikkipastel.com/guide-for-do-github-profile-to-beautiful/)
 - [วิธีการรับเหรียญไว้เทสใน Ropsten Ethereum](https://www.mikkipastel.com/get-eth-and-token-for-test-with-ropsten-ethereum-testnet-by-faucet/)
 - [ทดลองทำ React website แบบง่ายๆบน Vercel กันเถอะ](https://www.mikkipastel.com/simple-react-website-on-vercel/)
-- [ทดลองทำ gitbook เป็นของตัวเอง](https://www.mikkipastel.com/how-to-create-my-gitbook/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
