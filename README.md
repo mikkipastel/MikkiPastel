@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [สรุป session สาย blockchain แบบมัดรวม จากงาน Dev Mountain Tech Festival](https://www.mikkipastel.com/summary-all-session-blockchain-from-devmountainfestival/)
 - [สรุป Lifelong Journey as a Software Engineer จากงาน Dev Mountain Tech Festival](https://www.mikkipastel.com/lifelong-journey-as-a-software-engineer-dev-mountain-tech-festival/)
 - [จดสรุป &quot;NFT ตอนนี้ยังน่าเล่นอยู่ไหม ถึงขาลงแล้วหรือยัง ?&quot;](https://www.mikkipastel.com/nft-is-still-to-invest-even-thought-downtrend-is-already/)
 - [วิเคราะห์เทรนคริปโตที่น่าจับตามองในปี 2022 ของคุณต้นฮ้อและเพจ Stocker Day](https://www.mikkipastel.com/crpytocurrency-trend-2022-by-tonhor-and-stocker-day/)
 - [สิ่งเตือนใจของดรอยเดฟ &quot;อย่าปล่อยให้แอปเติบโตไปในทางที่ผิดจนสายเกินแก้&quot;](https://www.mikkipastel.com/remain-for-android-developer-with-dont-accidentally-risk-being-distracted-until-its-too-late/)
-- [ทำไมเราจึงห้ามให้ seed และ private key ของ wallet ของเราให้คนอื่น?](https://www.mikkipastel.com/why-dont-give-seed-and-private-key-to-other/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
