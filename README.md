@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [ทำเว็บ todo list แบบง่ายๆ โดยใช้ Svelte และ Tailwind CSS เป็นครั้งแรก](https://www.mikkipastel.com/todo-list-by-svelte-and-tailwind-css-first-time/)
 - [Next Level Discord Bot กับการแจ้งเตือนประชุมหลบวันหยุด กิจกรรมในทีม และวันลา](https://www.mikkipastel.com/next-level-discord-bot-with-google-calendar/)
 - [ทำความรู้จัก Web 3.0 และ WASM เพิ่มเติมจากงาน &quot;Bkk.js #14 Back in business&quot;](https://www.mikkipastel.com/bkk-js-14-back-in-business/)
 - [สรุป &quot;Workshop: Hands-on Securing Smart Contract&quot; จากงาน KBTG Inspire2](https://www.mikkipastel.com/summary-workshop-hands-on-securing-smart-contract-kbtg/)
 - [สรุป session สาย blockchain แบบมัดรวม จากงาน Dev Mountain Tech Festival](https://www.mikkipastel.com/summary-all-session-blockchain-from-devmountainfestival/)
-- [สรุป Lifelong Journey as a Software Engineer จากงาน Dev Mountain Tech Festival](https://www.mikkipastel.com/lifelong-journey-as-a-software-engineer-dev-mountain-tech-festival/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
