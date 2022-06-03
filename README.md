@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [ทำความรู้จักกับ Rei Chain เชนน้องใหม่ของคนไทยกันเถอะ](https://www.mikkipastel.com/introduce-what-is-rei-chain/)
 - [ฝึกการ bridge ไป Optimism เพื่อกิจกรรมล่า airdrop ในอนาคต](https://www.mikkipastel.com/bridge-eth-to-optimism-before-airdrop-event/)
 - [บันทึกจากงาน Code in the Wind #1](https://www.mikkipastel.com/diary-of-code-in-the-wind-1/)
 - [ทำความรู้จักกับ GitHub Actions](https://www.mikkipastel.com/get-to-know-github-actions/)
 - [ทำเว็บ todo list แบบง่ายๆ โดยใช้ Svelte และ Tailwind CSS เป็นครั้งแรก](https://www.mikkipastel.com/todo-list-by-svelte-and-tailwind-css-first-time/)
-- [Next Level Discord Bot กับการแจ้งเตือนประชุมหลบวันหยุด กิจกรรมในทีม และวันลา](https://www.mikkipastel.com/next-level-discord-bot-with-google-calendar/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
