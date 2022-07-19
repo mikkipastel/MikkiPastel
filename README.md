@@ -19,10 +19,10 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 ## 📖 Latest Blog
 <!-- BLOG:START -->
 - [Key takeaway จากคอร์ส How to Become a Top Performer](https://www.mikkipastel.com/key-takeaway-from-how-to-become-a-top-performer-skooldio/)
+- [สรุป Svelte Meetup ครั้งแรกของประเทศไทยกันจ้า](https://www.mikkipastel.com/svelte-meetup-1-bangkok/)
 - [เรียนปูพื้นฐานพร้อมสร้างเหรียญ ใน Discord Naga DAO](https://www.mikkipastel.com/smart-contract-classroom-discord-naga-dao/)
 - [เกมส์ Ni no Kuni: Cross Worlds เกี่ยวกับ Blockchain ยังไง](https://www.mikkipastel.com/ni-no-kuni-cross-worlds-blockchain-game-airdrop-event/)
 - [จดสรุป Skooldio x Google Developers - What’s New in Android](https://www.mikkipastel.com/skooldio-x-google-developers-whats-new-in-android/)
-- [วิธีง่ายๆในการดู NFT ที่ได้ ในกระเป๋าของเรา](https://www.mikkipastel.com/how-to-see-my-nft-in-wallet-with-metamask-and-ipfs/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
