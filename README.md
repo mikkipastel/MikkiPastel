@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [รีวิวคริปโทแสตมป์ สแตมป์ NFT ของทางไปรษณีย์ไทย](https://www.mikkipastel.com/review-crypto-stamp-nft-thailandpost/)
 - [ทดลองทำ generative NFT แบบง่ายๆ แบบไม่ต้องโค้ดกัน บน speedboat](https://www.mikkipastel.com/try-to-do-geneative-nft-without-coding-by-speedboat/)
 - [เล่าเรื่องงาน Crypthon Challenge ของ Stocker DAO](https://www.mikkipastel.com/crypthon-challenge-stocker-dao/)
 - [ทำความรู้จัก NFT โปรเจกต์ใหญ่ของเรา &quot;Next Journey&quot; จ้า](https://www.mikkipastel.com/introduction-of-nft-mikkipastel-next-journey/)
 - [Key takeaway จากคอร์ส How to Become a Top Performer](https://www.mikkipastel.com/key-takeaway-from-how-to-become-a-top-performer-skooldio/)
-- [สรุป Svelte Meetup ครั้งแรกของประเทศไทยกันจ้า](https://www.mikkipastel.com/svelte-meetup-1-bangkok/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
