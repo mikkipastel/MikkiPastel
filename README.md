@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [ทำเพจหลักแสน ทำกี่รอบก็ทำได้ โดยพี่เทอร์โบ เพจ Bittoon](https://www.mikkipastel.com/how-to-get-100000-follower-in-facebook-page-by-turbo-bittoon-dao/)
 - [มาเพิ่ม Skill ของ Android Developer ด้วยการทำ Android Library กันเถอะ](https://www.mikkipastel.com/level-up-with-android-library-for-android-developer-android-bangkok-2022/)
 - [สอนยังไงให้สนุก กับพี่ต้า แห่ง Skooldio กับ Effective and Creative](https://www.mikkipastel.com/effective-and-creative-skooldio-creator-square/)
 - [ทดลองเป็น Creator ฝึกหัด กับเหล่า Skooldio Creator Square ที่ Creators Playground กันจ้า](https://www.mikkipastel.com/creators-playground-skooldio-creator-camp/)
 - [สรุป Productive Communication &amp; Personality Improvement จากโครงการ Skooldio Creator Square](https://www.mikkipastel.com/productive-communication-personality-improvement-skooldio-creator-square/)
-- [กลับมาอีกครั้งกับงาน LINE THAILAND DEVELOPER CONFERENCE 2022](https://www.mikkipastel.com/line-thailand-developer-conference-2022/)
 <!-- BLOG:END -->
 
 ## 💻 My Tech Stack
