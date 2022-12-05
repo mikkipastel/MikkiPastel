@@ -25,6 +25,9 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 - [ทำเพจหลักแสน ทำกี่รอบก็ทำได้ โดยพี่เทอร์โบ เพจ Bittoon](https://www.mikkipastel.com/how-to-get-100000-follower-in-facebook-page-by-turbo-bittoon-dao/)
 <!-- BLOG:END -->
 
+## 📃 My Brag Document
+[brag document](https://github.com/mikkipastel/brag-document)
+
 ## 💻 My Tech Stack
 
 #### Android Development
