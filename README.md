@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog
 <!-- BLOG:START -->
+- [สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว](https://www.mikkipastel.com/review-blog-2022/)
 - [เรียน &quot;มือใหม่ทํา [กราฟิก] อย่างไรให้.. ปัง!&quot; จาก BitToonDAO Learning](https://www.mikkipastel.com/how-to-do-graphic-from-newbie-bittoon-dao-learning/)
 - [5 สิ่งแตกต่าง ที่ Kotlin มีแต่ Java ไม่มี](https://www.mikkipastel.com/5-difference-things-kotlin-have-but-java-not-have/)
 - [บันทึกเกี่ยวกับงาน Dev Mountain Tech Festival ครั้งที่ 2 ที่เชียงใหม่](https://www.mikkipastel.com/dev-mountain-tech-festival-2-chiang-mai/)
 - [5 สิ่งแตกต่าง ที่ Kotlin ดีกว่า Java &lpar;ของดีครับน้อนๆ&rpar;](https://www.mikkipastel.com/5-difference-things-kotlin-is-great-than-java/)
-- [งานชาว open source เป็นยังไงบ้างนะ? กับงาน Hacktoberfest Thailand 2022](https://www.mikkipastel.com/hacktoberfest-thailand-2022/)
 <!-- BLOG:END -->
 
 ## 📃 My Brag Document
