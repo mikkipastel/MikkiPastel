@@ -17,3 +17,9 @@ jobs:
           feed_list: "https://www.mikkipastel.com/rss/"
           commit_message: "Update mikkipastel.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM"
+          feed_list: "https://medium.com/feed/@minseobingsu"
+          commit_message: "Update medium.com blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
