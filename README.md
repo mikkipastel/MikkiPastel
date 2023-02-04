@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย](https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/)
 - [ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio](https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/)
 - [ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน](https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/)
 - [สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว](https://www.mikkipastel.com/review-blog-2022/)
 - [เรียน &quot;มือใหม่ทํา [กราฟิก] อย่างไรให้.. ปัง!&quot; จาก BitToonDAO Learning](https://www.mikkipastel.com/how-to-do-graphic-from-newbie-bittoon-dao-learning/)
-- [5 สิ่งแตกต่าง ที่ Kotlin มีแต่ Java ไม่มี](https://www.mikkipastel.com/5-difference-things-kotlin-have-but-java-not-have/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
