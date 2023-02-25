@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที](https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/)
 - [มาทำ Email Management ฉบับ Getting Thing Done กัน](https://www.mikkipastel.com/email-management-getting-thing-done/)
 - [มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย](https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/)
 - [ทำ links page ของตัวเองแบบง่ายๆ ด้วย Glitch in Bio](https://www.mikkipastel.com/my-bio-website-by-glitch-in-bio/)
 - [ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน](https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/)
-- [สรุปชีวิตปี 2022 กับการเข้าโลก web3 แบบไม่ทันตั้งตัว](https://www.mikkipastel.com/review-blog-2022/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
