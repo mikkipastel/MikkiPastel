@@ -34,10 +34,6 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 - [ทดลองใช้ Jenkins สำหรับ Android Project จากคนที่ไม่เคยใช้มาก่อน](https://medium.com/mikkipastel/run-ci-for-android-project-in-jenkins-fc16da9ef763?source=rss-606b11313ec7------2)
 <!-- MEDIUM:END -->
 
-## 🎥 Latest Video ([youtube.com](https://www.youtube.com/@mikkicoding/))
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 ## 📃 My Brag Document
 [brag document](https://github.com/mikkipastel/brag-document)
 
