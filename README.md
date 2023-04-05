@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [มาดูพี่ตี๋วิดพื้น เอ้ยย มาอัพเดตของใหม่ ๆ กันในงาน Firebase Dev Day 2023](https://www.mikkipastel.com/firebase-dev-day-2023/)
 - [รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop](https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/)
 - [ทดลองทำเว็บวาดรูปเป็น pixel art ด้วย Svelte แบบง่าย ๆ กันเถอะ](https://www.mikkipastel.com/drawing-pixel-art-svelte-website/)
 - [สอนแคปจอจาก Google Chrome แบบจับมือทำ](https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/)
 - [สอนแคปจอบน macbook แบบจับมือทำ](https://www.mikkipastel.com/how-to-capture-macbook-screen/)
-- [สรุปการเรียนคอร์สเจาะลึก NFT และ DeFi ปูพื้นฐานแบบจัดเต็ม ของ NFT360](https://www.mikkipastel.com/online-course-nft-defi-foundametal-from-nft360/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
