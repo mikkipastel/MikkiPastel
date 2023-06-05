@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ](https://www.mikkipastel.com/introduction-stable-diffusion-101/)
 - [ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ](https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/)
 - [ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน](https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/)
 - [เล่าเรื่องงาน NFT Square Meetup #1 และ GASSED UP](https://www.mikkipastel.com/nft-square-meetup-1-and-gassed-up/)
 - [มาดูพี่ตี๋วิดพื้น เอ้ยย มาอัพเดตของใหม่ ๆ กันในงาน Firebase Dev Day 2023](https://www.mikkipastel.com/firebase-dev-day-2023/)
-- [รวมเว็บขอ Testnet Faucet สำหรับ developer และนักล่า airdrop](https://www.mikkipastel.com/list-of-testnet-faucet-for-developer-and-airdrop-hunter/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
