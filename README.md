@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง?](https://www.mikkipastel.com/apetimism-1st-anniversary/)
 - [สรุปจากงาน Web 3.0, The Future of Decentralization](https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/)
 - [นายเองก็ใช้ markdown บน discord ได้นะ!](https://www.mikkipastel.com/how-to-use-markdown-on-discord/)
 - [รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ](https://www.mikkipastel.com/introduction-stable-diffusion-101/)
 - [ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ](https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/)
-- [ทำบล็อกแบบง่าย ๆ แบบไม่ต้องใช้ CMS ผ่าน Glitch กัน](https://www.mikkipastel.com/create-blog-maskdown-without-cms-by-glitch/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
