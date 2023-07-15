@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF](https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/)
 - [อย่าเพิ่งทำ ... ถ้ายังไม่ได้วิเคราะห์ 3C Analysis](https://www.mikkipastel.com/3c-analysis/)
 - [มางาน Apetimism 1st Anniversary แล้วได้อะไรบ้าง?](https://www.mikkipastel.com/apetimism-1st-anniversary/)
 - [สรุปจากงาน Web 3.0, The Future of Decentralization](https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/)
 - [นายเองก็ใช้ markdown บน discord ได้นะ!](https://www.mikkipastel.com/how-to-use-markdown-on-discord/)
-- [รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ](https://www.mikkipastel.com/introduction-stable-diffusion-101/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
