@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [แชร์วิธีการเทส deeplink สำหรับ Android Developer](https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/)
 - [ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch](https://www.mikkipastel.com/create-new-pwa-project-by-glitch/)
 - [ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ](https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/)
 - [มาเรียนรู้ &quot;Content 3.0 การใช้ Ai เขียนคอนเทนต์แบบมือโปร&quot; กันจ้า](https://www.mikkipastel.com/content-3-0-ai-for-content-creator/)
 - [ทำความรู้จัก Progressive Web Apps](https://www.mikkipastel.com/what-is-progressive-web-apps/)
-- [สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF](https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
