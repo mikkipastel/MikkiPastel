@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [รีวิวงาน Bitcoin Addict Meetup 2023 ที่เมืองมังกรกัน](https://www.mikkipastel.com/bitcoin-addict-meetup-2023/)
 - [เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023](https://www.mikkipastel.com/google-io-extended-2023/)
 - [ดึง transaction ของ contract ลง Google Sheet แบบง่าย ๆ ใคร ๆ ก็ทำได้ ไม่ต้องโค้ดเอง](https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/)
 - [แชร์วิธีการเทส deeplink สำหรับ Android Developer](https://www.mikkipastel.com/how-to-test-deeplink-for-android-developer/)
 - [ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch](https://www.mikkipastel.com/create-new-pwa-project-by-glitch/)
-- [ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ](https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
