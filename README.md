@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง](https://www.mikkipastel.com/basic-graphic-before-advance-level/)
 - [งาน LINE Conference Thailand 2023 มีอะไรบ้าง ไปดูกัน](https://www.mikkipastel.com/line-conference-thailand-2023/)
 - [รู้จักคนด้วยหลักการ DISC](https://www.mikkipastel.com/disc-people-personally-assessment-tool/)
 - [มือใหม่จะล่า airdrop ต้องรู้อะไรบ้าง?](https://www.mikkipastel.com/how-to-crypto-airdrop-for-beginner/)
 - [มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT](https://www.mikkipastel.com/icp_world_nft_gm_club/)
-- [content stack 2023- ทำ content ต้องใช้เครี่องมืออะไรบ้าง](https://www.mikkipastel.com/content-stack-2023/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
