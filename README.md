@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [สรุป Git command เผื่อได้ใช้กัน](https://www.mikkipastel.com/git-command-summary/)
 - [มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club](https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/)
 - [รีวิวคอร์สสาย Tech ที่เราเรียนของ Skooldio กัน](https://www.mikkipastel.com/review-skooldio-tech-course/)
 - [อัพเดตข่าวสารอาชีพประจำปี กับงาน Android Bangkok Conference 2023](https://www.mikkipastel.com/android-bangkok-conference-2023/)
 - [มาอัพเดตเทคกับงาน DevFest Bangkok 2023](https://www.mikkipastel.com/devfest-bangkok-2023/)
-- [เข้าค่าย Compose Camp ชาว Android Developer กัน &lpar;ช่วงเช้า&rpar;](https://www.mikkipastel.com/th-compose-camp-first-half/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
