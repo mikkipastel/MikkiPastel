@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [นั่งร่วมงาน Developer Creators and Online Communities Summit ของ Google](https://www.mikkipastel.com/developer-creators-and-online-communities-summit-google/)
 - [Outward Mindset คืออะไร มาทำความรู้จักกัน](https://www.mikkipastel.com/what-is-outward-mindset/)
 - [มาทำความรู้จัก Growth Mindset กัน](https://www.mikkipastel.com/what-is-growth-mindset/)
 - [สรุป Git command เผื่อได้ใช้กัน](https://www.mikkipastel.com/git-command-summary/)
 - [มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club](https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/)
-- [รีวิวคอร์สสาย Tech ที่เราเรียนของ Skooldio กัน](https://www.mikkipastel.com/review-skooldio-tech-course/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
