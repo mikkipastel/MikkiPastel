@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [เราใช้ iPad ทำอะไรบ้าง?](https://www.mikkipastel.com/overview-my-ipad-with-apple-pencil-application-widget/)
 - [เรียนรู้ Generative AI &amp; ChatGPT กับอาจารย์เต้กัน](https://www.mikkipastel.com/generative-ai-chatgpt-unlock-working-with-ai/)
 - [รีวิว Work From Home Workspace หลังจากที่ใช้งานมาระยะหนึ่งแล้ว](https://www.mikkipastel.com/review-work-from-home-workspace/)
 - [เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle](https://www.mikkipastel.com/github-action-android-compose-battle/)
 - [อัพเดตเทรนคริปโตกับงาน Digital Assets Navigator ของ Bitkub](https://www.mikkipastel.com/digital-assets-navigator-bitkub/)
-- [นั่งร่วมงาน Developer Creators and Online Communities Summit ของ Google](https://www.mikkipastel.com/developer-creators-and-online-communities-summit-google/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
