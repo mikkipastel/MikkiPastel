@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [เรียนรู้ Content Marketing เพื่อทำเงิน ในสัปดาห์ที่ 2 ของ iCreator Camp 2024](https://www.mikkipastel.com/icreator-camp-2024-week2-content-marketing/)
 - [iCreator Camp 2024 วันแรกกับ Storytelling &amp; Creativity](https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/)
 - [มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop](https://www.mikkipastel.com/sui-workshop-contribution-dao/)
 - [เพิ่ม table of content สำหรับ Ghost CMS กัน](https://www.mikkipastel.com/table-of-content-ghost-cms/)
 - [ปรับ mindset การทำแอพรองรับคนทุกกลุ่ม กับ &quot;Intro to Web Accessibility&quot; workshop](https://www.mikkipastel.com/intro-to-web-accessibility-workshop-skooldio/)
-- [รวมมิตรอัพเดตแพชครั้งใหญ่ กับ Kotlin DSL กับ toml](https://www.mikkipastel.com/migrate-project-to-kotlin-dsl-and-toml/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
