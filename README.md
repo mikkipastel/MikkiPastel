@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง?](https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/)
 - [กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1](https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/)
 - [เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร](https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/)
 - [เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ?](https://www.mikkipastel.com/covid-19-first-time-2024/)
 - [ทำนามบัตรแจกคนทั้งโลก ในงบหลักสิบ ด้วย NFC card](https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/)
-- [วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024](https://www.mikkipastel.com/icreator-camp-2024-final-day/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
