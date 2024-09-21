@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024](https://www.mikkipastel.com/thailand-bitcoin-conference-2024/)
 - [เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน &quot;Unlocking Product Insights&quot;](https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/)
 - [รีวิวคอร์ส “Enhancing Business Performance with Generative AI” เรียนรู้แบบ zero to hero](https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/)
 - [สอนใช้ Suno AI มาทำเพลงเองแบบง่าย ๆ ในยุค AI](https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/)
 - [บอกต่อทริคไม่ลับ! ที่ทำให้คุณใช้ Canva Pro คุ้มขึ้น!!!](https://www.mikkipastel.com/how-to-use-canva-pro/)
-- [อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง?](https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
