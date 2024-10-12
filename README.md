@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?](https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/)
 - [จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World&#39;s First Programming Monitor Series](https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/)
 - [ทำความรู้จัก Regular Expression แบบ 101 กัน](https://www.mikkipastel.com/regular-expression-regex-101/)
 - [แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024](https://www.mikkipastel.com/thailand-bitcoin-conference-2024/)
 - [เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน &quot;Unlocking Product Insights&quot;](https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/)
-- [รีวิวคอร์ส “Enhancing Business Performance with Generative AI” เรียนรู้แบบ zero to hero](https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
