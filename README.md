@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024](https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/)
 - [ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ](https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/)
 - [อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024](https://www.mikkipastel.com/line-thailand-developer-conference-2024/)
 - [มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB](https://www.mikkipastel.com/bitkub-summit-2024/)
 - [Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?](https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/)
-- [จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World&#39;s First Programming Monitor Series](https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
