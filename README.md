@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [รู้เรื่อง Docker 101 จากชาว Bitcoiner](https://www.mikkipastel.com/docker-101/)
 - [มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024](https://www.mikkipastel.com/icreator-conference-2024/)
 - [ได้ไปฟังอะไรที่งาน National Coding Day 2024: Workshop Day บ้าง?](https://www.mikkipastel.com/national-coding-day-2024-workshop-day/)
 - [สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024](https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/)
 - [ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ](https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/)
-- [อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024](https://www.mikkipastel.com/line-thailand-developer-conference-2024/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
