@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [เล่าเรื่อง startup เท่าที่รู้ จากซีรีส์เกาหลี Start-Up](https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/)
 - [มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน](https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/)
 - [Nostr 101: คืออะไร? เล่นยังไง? แล้วเปลี่ยนโลกการใช้ social ของเรายังไง?](https://www.mikkipastel.com/nostr-101-introduction/)
 - [เมื่อ Android Developer คนหนึ่งอยากเปลี่ยน portfolio website ใหม่](https://www.mikkipastel.com/new-portfolio-website/)
 - [2024: year in review ปีแห่ง 1 day 1000 Situations](https://www.mikkipastel.com/2024-year-in-review/)
-- [อัพเดตประจำปี Android Bangkok Conference 2024 มีอะไรน่าสนใจบ้าง?](https://www.mikkipastel.com/android-bangkok-conference-2024/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
