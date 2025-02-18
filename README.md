@@ -27,11 +27,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
 <!-- MEDIUM:START -->
+- [มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน](https://developers.ascendcorp.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark-4a40059713f0?source=rss-606b11313ec7------2)
 - [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 2 : Activity &amp; Fragment](https://developers.ascendcorp.com/basic-android-development-ep-2-activity-44e335020e8b?source=rss-606b11313ec7------2)
 - [มาเพิ่ม Skill ของ Android Developer ด้วยการทำ Android Library กันเถอะ](https://developers.ascendcorp.com/level-up-with-android-library-for-android-developer-c80ab0c3c346?source=rss-606b11313ec7------2)
 - [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 1 : Introduction with Android Project](https://developers.ascendcorp.com/basic-android-development-ep-1-introduction-with-android-project-fbf754bb4d3a?source=rss-606b11313ec7------2)
 - [บันทึกการทำงานเป็นสตาฟอีกครั้ง ในงาน Android Developer Meetup 08.2022](https://medium.com/android-developer-meetup-th/diary-of-staff-at-android-developer-meetup-08-2022-by-mikkipastel-b22d6f89b50?source=rss-606b11313ec7------2)
-- [ทดลองใช้ Jenkins สำหรับ Android Project จากคนที่ไม่เคยใช้มาก่อน](https://medium.com/mikkipastel/run-ci-for-android-project-in-jenkins-fc16da9ef763?source=rss-606b11313ec7------2)
 <!-- MEDIUM:END -->
 
 ## 💻 My Tech Stack
