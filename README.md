@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว!](https://www.mikkipastel.com/android-activity-lifecycle/)
 - [มา sit-in ค่าย iCreator Camp 2025 วันแรก Storytelling &amp; Creativity](https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/)
 - [3 วันของ DataRockie Mini Bootcamp 2025 เรียนอะไรบ้าง?](https://www.mikkipastel.com/datarockie-mini-bootcamp-2025/)
 - [นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง](https://www.mikkipastel.com/tuxsa-open-house-2025/)
 - [สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025](https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/)
-- [5 วิธี ดูแล Server Discord ยังไง? ให้ปลอดภัยขั้นต้น!](https://www.mikkipastel.com/5-ways-to-secure-your-discord-server-for-beginner-step/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
