@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้](https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/)
 - [รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน](https://www.mikkipastel.com/power-bi-for-beginner/)
 - [มาอัพสกิลกับหลักสูตร AI Skills for Everyone](https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/)
 - [โพยการใช้ git เมื่อทำ side project บน Github](https://www.mikkipastel.com/list-git-command-for-side-project-in-github/)
 - [ทำ feature scan QR code บน Android app อย่างง่าย ด้วย ML Kit](https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/)
-- [สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable”](https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
