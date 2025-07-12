@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน](https://www.mikkipastel.com/what-about-tool-program-for-developer-work/)
 - [เอาเว็บขึ้น Github Pages ยังไง? ฉบับมีโพย ทำง่ายแน่นอน](https://www.mikkipastel.com/how-to-setup-github-pages/)
 - [สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี?](https://www.mikkipastel.com/thai-creator-for-real-business-workshop/)
 - [สร้าง AI agent ด้วย Microsoft Azure Foundry กัน](https://www.mikkipastel.com/develop-ai-agents-on-azure/)
 - [อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้](https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/)
-- [รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน](https://www.mikkipastel.com/power-bi-for-beginner/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
