@@ -17,8 +17,15 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://www.mikkipastel.com/rss/"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           commit_message: "Update mikkipastel.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+  update-readme-with-medium:
+    name: Update this repo\'s README with latest medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Update blog from medium
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
