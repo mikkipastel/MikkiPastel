@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
-- [ทำความรู้จัก Solana 101 แบบเดฟ ๆ](https://www.mikkipastel.com/solana-101-by-developer/)
-- [รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง!](https://www.mikkipastel.com/review-github-copilot-business/)
-- [รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน](https://www.mikkipastel.com/what-about-tool-program-for-developer-work/)
-- [เอาเว็บขึ้น Github Pages ยังไง? ฉบับมีโพย ทำง่ายแน่นอน](https://www.mikkipastel.com/how-to-setup-github-pages/)
-- [สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี?](https://www.mikkipastel.com/thai-creator-for-real-business-workshop/)
+- [ทำความรู้จัก Cloudflare WARP กัน](https://www.mikkipastel.com/cloudflare-warp/)
+- [ทริคง่าย ๆ ในการตั้งชื่อ Android Resource Qualifier ให้ถูกสุขอนามัย](https://www.mikkipastel.com/android-resource-qualifier-cheat-sheet/)
+- [งานเดฟสุดท้ายปลายปี กับ DevFest Bangkok 2025](https://www.mikkipastel.com/devfest-bangkok-2025/)
+- [ทำความรู้จักกับ wallet และการทำธุรกรรมบน Blockchain กัน](https://www.mikkipastel.com/wallet-crypto-101/)
+- [มาอัพสกิลสาย content creator กับงานใหญ่ประจำปี iCreator Conference 2025](https://www.mikkipastel.com/icreator-conference-2025/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
