@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [ออกแบบ “บทสนทนา” ใน Chatbot ยังไง? ให้ AI คุยกับคนได้ดีขึ้น!](https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/)
 - [ทำความรู้จัก Cloudflare WARP กัน](https://www.mikkipastel.com/cloudflare-warp/)
 - [ทริคง่าย ๆ ในการตั้งชื่อ Android Resource Qualifier ให้ถูกสุขอนามัย](https://www.mikkipastel.com/android-resource-qualifier-cheat-sheet/)
 - [งานเดฟสุดท้ายปลายปี กับ DevFest Bangkok 2025](https://www.mikkipastel.com/devfest-bangkok-2025/)
 - [ทำความรู้จักกับ wallet และการทำธุรกรรมบน Blockchain กัน](https://www.mikkipastel.com/wallet-crypto-101/)
-- [มาอัพสกิลสาย content creator กับงานใหญ่ประจำปี iCreator Conference 2025](https://www.mikkipastel.com/icreator-conference-2025/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
