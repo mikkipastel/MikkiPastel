@@ -18,11 +18,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม](https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/)
 - [วิวัฒนาการของคอมพิวเตอร์มีกี่ยุคบ้าง? แล้วทำอย่างไรให้คอมคุยกับคนรู้เรื่อง?](https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/)
 - [เมื่อ AI เข้ามา ยังไงงานของเดฟก็ไม่เปลี่ยนไป สรุปจาก National Coding Day 2026](https://www.mikkipastel.com/national-coding-day-2026/)
 - [4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ](https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/)
 - [Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก](https://www.mikkipastel.com/recap-2025-ai-year/)
-- [รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ!](https://www.mikkipastel.com/notebooklm-gemini/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
