@@ -64,9 +64,9 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📈 Github Stat
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=mikkipastel&count_private=true&theme=onedark&show_icons=true)](https://github.com/mikkipastel)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mikkipastel?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikkipastel&theme=dark)](https://git.io/streak-stats)
 
 ## 🧧 Donate me
 
