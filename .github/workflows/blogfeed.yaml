@@ -32,15 +32,3 @@ jobs:
           feed_list: "https://medium.com/feed/@minseobingsu"
           commit_message: "Update medium.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-  update-readme-with-youtube:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-    - name: Update video from youtube
-      uses: gautamkrishnar/blog-post-workflow@1.9.4
-      with:
-        channel_id: MikkiPastel
-        readme_path: ./README.md
-        commit_message: "Update youtube.com video"
-        gh_token: ${{ secrets.GITHUB_TOKEN }}

@@ -34,10 +34,6 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 - [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 1 : Introduction with Android Project](https://developers.ascendcorp.com/basic-android-development-ep-1-introduction-with-android-project-fbf754bb4d3a?source=rss-606b11313ec7------2)
 <!-- MEDIUM:END -->
 
-## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 ## 💻 My Tech Stack
 
 #### Android Development
