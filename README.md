@@ -74,7 +74,6 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 ## 📈 Github Stat
 
 [![Stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
-
 [![Top Languages](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 
