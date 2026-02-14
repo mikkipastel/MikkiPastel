@@ -36,6 +36,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [Kannodu Kannayidam | Fingerstyle Guitar Cover | Alwin John #trendingsong](https://www.youtube.com/shorts/ku0JiQmJJ7I)
+- [&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/shorts/--WvAIf09ik)
+- [Mel Mel from Ustad Hotel - Fingerstyle Guitar Cover](https://www.youtube.com/shorts/GRUfOudjNTc)
+- [Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/watch?v=Y3p3_1l4ChY)
+- [Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/shorts/I9Q_GjEU7mg)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
