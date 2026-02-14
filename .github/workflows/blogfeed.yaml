@@ -29,6 +29,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.9.4
         with:
           comment_tag_name: "MEDIUM"
-          feed_list: "https://medium.com/feed/@minseobingsu"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOnNvgkW2wmQXMuUfKVTmWQ"
           commit_message: "Update medium.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
