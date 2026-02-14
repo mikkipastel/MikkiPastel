@@ -36,11 +36,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
-- [Kannodu Kannayidam | Fingerstyle Guitar Cover | Alwin John #trendingsong](https://www.youtube.com/shorts/ku0JiQmJJ7I)
-- [&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/shorts/--WvAIf09ik)
-- [Mel Mel from Ustad Hotel - Fingerstyle Guitar Cover](https://www.youtube.com/shorts/GRUfOudjNTc)
-- [Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/watch?v=Y3p3_1l4ChY)
-- [Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John](https://www.youtube.com/shorts/I9Q_GjEU7mg)
+- [[Vlog] เมื่อ AI เข้ามา ยังไงงานของเดฟก็ไม่เปลี่ยนไป สรุปจาก National Coding Day 2026](https://www.youtube.com/watch?v=PBS3KwxQaGU)
+- [ทำงานที่มืดไม่แสบตาแล้ว กับ BenQ ScreenBar Halo 2](https://www.youtube.com/shorts/2v8ryZSnNkc)
+- [แจก guideline ปั้นแอพ AI ด้วย Firebase + Vercel SDK](https://www.youtube.com/shorts/Z67iIriFjoE)
+- [สรุป AI เจนรูปจากบ้าน Google มีกี่ตัว ต่างกันยังไง ราคาเท่าไหร่?](https://www.youtube.com/shorts/CYtVkzf7MP8)
+- [อัพเดตบ้าน Meta ปี 2025 มีอะไรบ้าง?](https://www.youtube.com/shorts/LWNVNmW3b3A)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
