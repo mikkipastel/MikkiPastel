@@ -13,7 +13,7 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 [![Play Store](https://img.shields.io/website?color=48ff48&style=flat-square&up_message=Play%20Store&url=https%3A%2F%2Fplay.google.com/store/apps/dev?id=6950665064391537398)](https://play.google.com/store/apps/dev?id=6950665064391537398)
 
 [![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/mikkipastel)
-[![Twitter Badge](https://img.shields.io/badge/-@mikkipastel-00acee?style=flat&logo=x&logoColor=white)](https://twitter.com/intent/follow?screen_name=mikkipastel "Follow on Twitter")
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mikkipastel)](https://x.com/intent/follow?screen_name=mikkipastel "Follow on X")
 [![YouTube Badge](https://img.shields.io/badge/-MikkiPastel-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOnNvgkW2wmQXMuUfKVTmWQ)
 [![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtGbMSe4i7NJiKQ271Fezcg)
 [![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseobingsu/)](https://medium.com/@minseomikki)
