@@ -83,3 +83,5 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 ## 🧧 Donate me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31VK3J)
+<a href="https://www.buymeacoffee.com/mikkipastel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>
+[![Tipme](https://img.shields.io/website?color=f7941d&up_message=Tipme&url=https%3A%2F%2Ftipme.in.th%2Fmikkipastel&style=for-the-badge)](https://tipme.in.th/mikkipastel)
