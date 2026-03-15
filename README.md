@@ -38,11 +38,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [จองห้องจักรพรรดิ์ ร้าน Shu Daxia สาขา MBK ง่ายมากผ่าน Google Maps @ShudaxiaTH](https://www.youtube.com/watch?v=Fndwnm0LkhU)
 - [รีวิวห้องหนึ่งเดียวที่เป็นห้อง และหม้อส่วนตัว กับ ห้องจักรพรรดิ์ ของร้าน Shu Daxia สาขา MBK](https://www.youtube.com/shorts/rftiV_E_oOk)
 - [งาน Samsung Creator Day เขาพูดอะไรกันบ้างนะ? #samsung #CreatorDay](https://www.youtube.com/shorts/OEK9Q1YBaF0)
 - [ได้ลองจอกันเผือกของ Samsung S26 Ultra ครั้งแรกมาล่ะ](https://www.youtube.com/shorts/Di8EoIzUTko)
 - [[Vlog] เมื่อ AI เข้ามา ยังไงงานของเดฟก็ไม่เปลี่ยนไป สรุปจาก National Coding Day 2026](https://www.youtube.com/watch?v=PBS3KwxQaGU)
-- [ทำงานที่มืดไม่แสบตาแล้ว กับ BenQ ScreenBar Halo 2](https://www.youtube.com/shorts/2v8ryZSnNkc)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
