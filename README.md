@@ -20,11 +20,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [ทำไมตอนเลือกตั้ง 69 บัตรเสียถึงเยอะจัง? ทำความรู้จัก Service Design กัน](https://www.mikkipastel.com/service-design-101-designing-the-system-behind-the-screen-friend-of-figma/)
 - [เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake](https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/)
 - [มาฟังแรงบันดาลใจกับงาน Samsung Creator Day](https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/)
 - [เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว](https://www.mikkipastel.com/tax-101-for-developer/)
 - [สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio](https://www.mikkipastel.com/create-workflow-google-workspace-studio/)
-- [3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม](https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
