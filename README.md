@@ -20,11 +20,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [พบปะชาว Solana เดฟ ที่งาน Solana x AI Builders: The Road to Mainnet #1 &lpar;Bangkok&rpar;](https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/)
 - [มาเป็นพี่เกือบเนียนที่ iCreator Camp 2026 week 1 Storytelling &amp; Branding](https://www.mikkipastel.com/icreator-camp-2026-week-1-storytelling-branding/)
 - [ทำไมถึงยังมีแอพสินเชื่อบน Play Store?](https://www.mikkipastel.com/google-play-finance-app-policy-thai/)
 - [มัดรวม LLM model ยอดฮิต ว่ามีเจ้าไหนบ้าง?](https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/)
 - [อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน](https://www.mikkipastel.com/fix-edge-to-edge-android-15/)
-- [แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems](https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
