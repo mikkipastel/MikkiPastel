@@ -38,11 +38,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [iCreator Camp 2026 วันแรก เขาเรียนอะไรกันบ้าง](https://www.youtube.com/watch?v=F0fZ8P933xI)
 - [บรรยากาศงาน Solana x AI Builders: The Road to Mainnet #1 &lpar;Bangkok&rpar; #solana #developer](https://www.youtube.com/shorts/8KCRLq-RLLY)
 - [อยากทำ github profile แต่ไม่รู้จะใส่อะไร ดูคลิปนี้ได้เลย #github #developer](https://www.youtube.com/shorts/B0OdQPpAIck)
 - [Vlog งาน FOSSASIA Community Day 2026](https://www.youtube.com/shorts/oPsoqJwXQqI)
 - [ซื้อชาเขียวแบบไม่ต้องเปิดแอพจ่ายเงิน! #mikkipastel #7eleven #truemoney](https://www.youtube.com/shorts/qQsgYp30O_w)
-- [gen code 30 วันบน TikTok ยังไง? เข้าใจง่ายใน 30 วิ #mikkipastel #tiktok](https://www.youtube.com/shorts/5F5DF11ocSg)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
