@@ -38,11 +38,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [สัปดาห์ที่ 3 ของชาวค่าย iCreator Camp 2026 #icreatorcamp #icreatorcamp2026](https://www.youtube.com/shorts/VBCaoIkqaBQ)
+- [บรรยากาศงาน Solana x AI Builders: The Road to Mainnet #2 &lpar;Bangkok&rpar;](https://www.youtube.com/shorts/Ho-mGiD-SMQ)
 - [ไปเจออุปกรณ์น่าสนใจในงาน #icreatorcamp2026](https://www.youtube.com/shorts/cZ7tx3PodAw)
 - [iCreator Camp 2026 วันแรก เขาเรียนอะไรกันบ้าง](https://www.youtube.com/watch?v=F0fZ8P933xI)
 - [บรรยากาศงาน Solana x AI Builders: The Road to Mainnet #1 &lpar;Bangkok&rpar; #solana #developer](https://www.youtube.com/shorts/8KCRLq-RLLY)
-- [อยากทำ github profile แต่ไม่รู้จะใส่อะไร ดูคลิปนี้ได้เลย #github #developer](https://www.youtube.com/shorts/B0OdQPpAIck)
-- [Vlog งาน FOSSASIA Community Day 2026](https://www.youtube.com/shorts/oPsoqJwXQqI)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
