@@ -29,11 +29,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
 <!-- MEDIUM:START -->
-- [สรุป Training Class ประจำปี กับการเรียน “Designing your Personal Brand”](https://developers.ascendcorp.com/2025-learn-and-grow-program-designing-your-personal-brand-6bc636354f33?source=rss-606b11313ec7------2)
-- [มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน](https://developers.ascendcorp.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark-4a40059713f0?source=rss-606b11313ec7------2)
-- [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 2 : Activity &amp; Fragment](https://developers.ascendcorp.com/basic-android-development-ep-2-activity-44e335020e8b?source=rss-606b11313ec7------2)
-- [มาเพิ่ม Skill ของ Android Developer ด้วยการทำ Android Library กันเถอะ](https://developers.ascendcorp.com/level-up-with-android-library-for-android-developer-c80ab0c3c346?source=rss-606b11313ec7------2)
-- [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 1 : Introduction with Android Project](https://developers.ascendcorp.com/basic-android-development-ep-1-introduction-with-android-project-fbf754bb4d3a?source=rss-606b11313ec7------2)
+- [สรุป Training Class ประจำปี กับการเรียน “Designing your Personal Brand”](https://medium.com/ascend-developers/2025-learn-and-grow-program-designing-your-personal-brand-6bc636354f33?source=rss-606b11313ec7------2)
+- [มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน](https://medium.com/ascend-developers/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark-4a40059713f0?source=rss-606b11313ec7------2)
+- [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 2 : Activity &amp; Fragment](https://medium.com/ascend-developers/basic-android-development-ep-2-activity-44e335020e8b?source=rss-606b11313ec7------2)
+- [มาเพิ่ม Skill ของ Android Developer ด้วยการทำ Android Library กันเถอะ](https://medium.com/ascend-developers/level-up-with-android-library-for-android-developer-c80ab0c3c346?source=rss-606b11313ec7------2)
+- [เขียนแอพแอนดรอยด์ตั้งแต่เริ่มต้น ตอนที่ 1 : Introduction with Android Project](https://medium.com/ascend-developers/basic-android-development-ep-1-introduction-with-android-project-fbf754bb4d3a?source=rss-606b11313ec7------2)
 <!-- MEDIUM:END -->
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
