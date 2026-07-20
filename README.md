@@ -38,11 +38,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [AI ทำได้ขนาดนี้ เดฟยังจำเป็นอยู่ไหม? #GoogleIO #GDG #GDGBangkok #IOExtended #IOExtendedBKK](https://www.youtube.com/shorts/UvOPf0ACY_U)
 - [สัปดาห์ที่ 3 ของชาวค่าย iCreator Camp 2026 #icreatorcamp #icreatorcamp2026](https://www.youtube.com/shorts/VBCaoIkqaBQ)
 - [บรรยากาศงาน Solana x AI Builders: The Road to Mainnet #2 &lpar;Bangkok&rpar;](https://www.youtube.com/shorts/Ho-mGiD-SMQ)
 - [ไปเจออุปกรณ์น่าสนใจในงาน #icreatorcamp2026](https://www.youtube.com/shorts/cZ7tx3PodAw)
 - [iCreator Camp 2026 วันแรก เขาเรียนอะไรกันบ้าง](https://www.youtube.com/watch?v=F0fZ8P933xI)
-- [บรรยากาศงาน Solana x AI Builders: The Road to Mainnet #1 &lpar;Bangkok&rpar; #solana #developer](https://www.youtube.com/shorts/8KCRLq-RLLY)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
