@@ -20,11 +20,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [เป็น content creator staff ครั้งแรก ที่งาน Google IO Extended Bangkok 2026](https://www.mikkipastel.com/google-io-extended-bangkok-2026/)
 - [แจกโพยใช้ adb command ที่ต้องใช้ สำหรับ Android Developer](https://www.mikkipastel.com/adb-command-for-android-developer/)
 - [ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity](https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/)
 - [แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว](https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/)
 - [ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย](https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/)
-- [เป็นเดฟยังไง? ให้คนจำได้!](https://www.mikkipastel.com/how-to-remember-you-are-developer/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
