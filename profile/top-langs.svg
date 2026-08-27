@@ -192,7 +192,7 @@
           y="0"
           width="11.9"
           height="8"
-          fill="#178600"
+          fill="#7355dd"
         />
       
         <rect
@@ -251,7 +251,7 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# 0.76%
       </text>
