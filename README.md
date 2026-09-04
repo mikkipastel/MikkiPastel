@@ -20,11 +20,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📖 Latest Blog ([mikkipastel.com](https://www.mikkipastel.com/))
 <!-- BLOG:START -->
+- [เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology](https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/)
 - [สร้างโปรแกรมเองแบบง่าย ๆ ด้วย Google Opal ใช้บน Gemini ได้นะ](https://www.mikkipastel.com/google-opal-input-process-output-ipo/)
 - [เส้นทางการเป็น Android Developer ของ MikkiPastel](https://www.mikkipastel.com/path-of-android-developer-girl-in-stem-2026/)
 - [ใช้งาน Github Copilot ยังไง? ให้ AI Credit เหลือถึงสิ้นเดือน](https://www.mikkipastel.com/10-tips-reduce-cost-github-copilot-from-microsoft/)
 - [ทำ mood board ด้วย Figjam](https://www.mikkipastel.com/mood-board-figjam-from-figma/)
-- [Hello Neuro Symbolic กับ Payment Protocols ในยุค AI Agent กับคอมมู Solana Dev](https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/)
 <!-- BLOG:END -->
 
 ## 📖 Latest Blog ([medium.com](https://medium.com/@minseobingsu))
