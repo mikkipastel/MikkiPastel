@@ -38,11 +38,11 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 
 ## 📺 Latest YouTube Videos ([youtube.com](https://www.youtube.com/@MikkiPastel))
 <!-- YOUTUBE:START -->
+- [How-to ติดตั้ง widget บน Android](https://www.youtube.com/shorts/5HnjT-jReJw)
 - [งาน LINE DEV CONF 2026 มีอะไรน่ารู้บ้าง? #LINEDEVCONF2026](https://www.youtube.com/watch?v=r23HL-19iXU)
 - [บรรยากาศงาน Google IO Extended 2026 ในฐานะสตาฟ #GoogleIO #GDG #GDGBangkok #IOExtended #IOExtendedBKK](https://www.youtube.com/shorts/Xtu3czPlmPg)
 - [งาน Women Made: Girl in STEM ในมุมมองของ speaker #girlinstem #girlinstem2026 #seath #inskru](https://www.youtube.com/shorts/raW8jBdlzEM)
 - [เอา Notion มาจัดการ content ในแต่ละ platform ยังไง ให้ง่ายขึ้น @depathailand #depaThailand #ลองD2026](https://www.youtube.com/shorts/SwGkjAvybsc)
-- [เขาคุยอะไรกัน Solana x AI Builders: The Road to Mainnet #4 &lpar;Bangkok&rpar;](https://www.youtube.com/watch?v=mRt09lwBTnU)
 <!-- YOUTUBE:END -->
 
 ## 💻 My Tech Stack
